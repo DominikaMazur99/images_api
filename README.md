@@ -6,7 +6,6 @@ Welcome to DRF Images Api 👋
 
 
 > REST API for storing and resizing images.
-### 🏠 [Homepage]()
 ### ✨ [Demo](https://drf-images-api.herokuapp.com)
 ## Install
 ```sh
@@ -73,7 +72,7 @@ Give a ⭐️ if this project helped you!
 **[Markdown Readme Generator](https://github.com/pedroermarinho/markdown-readme-generator)**
 
 
-Copyright © 2021 [Patrick Piotrowski](https://github.com/DominikaMazur99 ).<br/>
+Copyright © 2021 [Dominika Mazur](https://github.com/DominikaMazur99 ).<br/>
 
 
 ---
