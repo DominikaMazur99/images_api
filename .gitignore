@@ -1,0 +1,11 @@
+.idea
+*.pyc
+.env.dev
+.env.db.dev
+media
+**/fixtures/
+
+.coverage
+.pytest_cache/
+
+htmlcov

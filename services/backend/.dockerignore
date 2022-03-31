@@ -1,0 +1,7 @@
+.idea
+*.pyc
+.env.dev
+.env.db.dev
+
+.coverage
+.pytest_cache/
